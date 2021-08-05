@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
-<mapper namespace="com.jzh.xx.transaction.mapper.CategoryTwoMapper">
-  <resultMap id="BaseResultMap" type="com.jzh.xx.transaction.domain.CategoryTwo">
+<mapper namespace="com.huo.junptech.mapper.CategoryTwoMapper">
+  <resultMap id="BaseResultMap" type="com.huo.junptech.domain.CategoryTwo">
     <!--
       WARNING - @mbg.generated
     -->
