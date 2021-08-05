@@ -27,7 +27,7 @@ public class SendSmsUtil {
     /**
      * 阿里云短信签名名称
      */
-    private static final String SIGNNAME = "闲闲二手交易网站";
+    private static final String SIGNNAME = "junptech项目";
 
     /**
      * 阿里云短信模板Code
