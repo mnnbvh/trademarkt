@@ -5,9 +5,9 @@ import com.huo.junptech.domain.Category;
 import com.huo.junptech.domain.CategoryTwo;
 import com.huo.junptech.domain.XxUser;
 import com.huo.junptech.service.*;
-import com.jzh.xx.transaction.domain.*;
+
 import com.huo.junptech.dto.ComResult;
-import com.jzh.xx.transaction.service.*;
+
 import com.huo.junptech.vo.OrderVO;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

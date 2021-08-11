@@ -8,9 +8,8 @@ import com.huo.junptech.mapper.CartMapper;
 import com.huo.junptech.mapper.ExpressMapper;
 import com.huo.junptech.mapper.OrderDetailMapper;
 import com.huo.junptech.mapper.ShopOrderMapper;
-import com.jzh.xx.transaction.domain.*;
+
 import com.huo.junptech.dto.PageInfo;
-import com.jzh.xx.transaction.mapper.*;
 import com.huo.junptech.service.OrderService;
 import com.huo.junptech.utils.IDUtil;
 import com.huo.junptech.vo.OrderVO;

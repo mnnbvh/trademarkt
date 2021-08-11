@@ -8,8 +8,7 @@ import com.alipay.api.request.AlipayTradePagePayRequest;
 import com.huo.junptech.config.AlipayConfig;
 import com.huo.junptech.domain.*;
 import com.huo.junptech.service.*;
-import com.jzh.xx.transaction.domain.*;
-import com.jzh.xx.transaction.service.*;
+
 import com.huo.junptech.vo.OrderVO;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

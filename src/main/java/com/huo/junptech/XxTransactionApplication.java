@@ -8,7 +8,7 @@ import tk.mybatis.spring.annotation.MapperScan;
 
 
 @SpringBootApplication
-@MapperScan(basePackages = "com.jzh.xx.transaction.mapper")
+@MapperScan(basePackages = "com.huo.junptech.mapper")
 @EnableTransactionManagement
 public class XxTransactionApplication {
 

@@ -2,9 +2,9 @@ package com.huo.junptech.controller;
 
 import com.huo.junptech.domain.*;
 import com.huo.junptech.service.*;
-import com.jzh.xx.transaction.domain.*;
+
 import com.huo.junptech.dto.PageResult;
-import com.jzh.xx.transaction.service.*;
+
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.*;

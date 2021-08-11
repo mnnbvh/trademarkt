@@ -8,10 +8,10 @@
         <version>2.1.9.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.jzh</groupId>
-    <artifactId>xx-transaction</artifactId>
+    <groupId>com.huo</groupId>
+    <artifactId>junptech</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>xx-transaction</name>
+    <name>junptech</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>

@@ -5,8 +5,7 @@ import com.huo.junptech.service.CartService;
 import com.huo.junptech.service.CategoryService;
 import com.huo.junptech.service.CategoryTwoService;
 import com.huo.junptech.service.ExpressService;
-import com.jzh.xx.transaction.domain.*;
-import com.jzh.xx.transaction.service.*;
+
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.*;
